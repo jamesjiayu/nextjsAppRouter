@@ -11,7 +11,7 @@ export default function Page() {
       <Link href="/dashboard">Dashboard</Link>
       <br />
       <Link href="/#hashid" scroll={false}>
-        Scroll to specific id.
+        Scroll to specific id.?
       </Link>
     </>
   );
